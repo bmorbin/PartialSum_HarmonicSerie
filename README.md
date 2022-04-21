@@ -141,6 +141,7 @@ plt.show()
 ```
 
 <hr>
+
 ## Some outputs of the code:
 
 ### Function `Prop_TRUE()`
